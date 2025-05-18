@@ -19,7 +19,7 @@ This project analyzes the popularity and interest in **Cloud Computing** using G
 
 ## 📁 Project Structure
 
-```bash
+
 cloud-computing-trends/
 ├── trend_analysis.py      # Main Python script
 ├── requirements.txt       # Dependencies
@@ -28,22 +28,14 @@ cloud-computing-trends/
 ▶️ How to Run
 Clone the Repository
 
-bash
-Copy
-Edit
 git clone https://github.com/your-username/cloud-computing-trends.git
 cd cloud-computing-trends
 Install Dependencies
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Run the Script
 
-bash
-Copy
-Edit
 python trend_analysis.py
 
 
@@ -55,8 +47,7 @@ Active internet connection (to access Google Trends)
 Required packages listed in requirements.txt:
 
 nginx
-Copy
-Edit
+
 pandas
 matplotlib
 pytrends
